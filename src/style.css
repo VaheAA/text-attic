@@ -205,6 +205,16 @@ section,
   justify-content: space-between;
 }
 
+.page-header__logo {
+  max-width: 240px;
+}
+
+.logo {
+  max-width: 240px;
+  width: 100%;
+  display: block;
+}
+
 .nav-list {
   margin: 0;
   padding: 0;
